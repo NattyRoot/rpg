@@ -1,0 +1,142 @@
+[
+    {
+        "Competence_ID":"1",
+        "Libelle":"Coup de hache",
+        "Classe_ID":"1",
+        "Degat":"5",
+        "Effet_ID":"0"
+    },
+    {
+        "Competence_ID":"2",
+        "Libelle":"Heurt de bouclier",
+        "Classe_ID":"1",
+        "Degat":"1",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"3",
+        "Libelle":"Patate dans ta face",
+        "Classe_ID":"1",
+        "Degat":"2",
+        "Effet_ID":"4"
+    },
+    {
+        "Competence_ID":"4",
+        "Libelle":"Lancer de caillasse",
+        "Classe_ID":"1",
+        "Degat":"3",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"5",
+        "Libelle":"Soin",
+        "Classe_ID":"2",
+        "Degat":"0",
+        "Effet_ID":"3"
+    },
+    {
+        "Competence_ID":"6",
+        "Libelle":"Intervention divine",
+        "Classe_ID":"2",
+        "Degat":"2",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"7",
+        "Libelle":"Foudre de Zeus",
+        "Classe_ID":"2",
+        "Degat":"4",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"8",
+        "Libelle":"Peste Noire",
+        "Classe_ID":"2",
+        "Degat":"1",
+        "Effet_ID":"1"
+    },
+    {
+        "Competence_ID":"9",
+        "Libelle":"Lancer de couteaux",
+        "Classe_ID":"3",
+        "Degat":"2",
+        "Effet_ID":"4"
+    },
+    {
+        "Competence_ID":"10",
+        "Libelle":"Dagues empoisonnees",
+        "Classe_ID":"3",
+        "Degat":"1",
+        "Effet_ID":"1"
+    },
+    {
+        "Competence_ID":"11",
+        "Libelle":"Caché dans l'ombre",
+        "Classe_ID":"3",
+        "Degat":"1",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"12",
+        "Libelle":"Coup dans le dos",
+        "Classe_ID":"3",
+        "Degat":"4",
+        "Effet_ID":"0"
+    },
+    {
+        "Competence_ID":"13",
+        "Libelle":"Boule de feu",
+        "Classe_ID":"4",
+        "Degat":"1",
+        "Effet_ID":"5"
+    },
+    {
+        "Competence_ID":"14",
+        "Libelle":"Tempete de givre",
+        "Classe_ID":"4",
+        "Degat":"3",
+        "Effet_ID":"2"
+    },
+    {
+        "Competence_ID":"15",
+        "Libelle":"Etincelle",
+        "Classe_ID":"4",
+        "Degat":"4",
+        "Effet_ID":"0"
+    },
+    {
+        "Competence_ID":"16",
+        "Libelle":"Enracinage",
+        "Classe_ID":"4",
+        "Degat":"0",
+        "Effet_ID":"3"
+    },
+    {
+        "Competence_ID":"17",
+        "Libelle":"Grondement terrestre",
+        "Classe_ID":"5",
+        "Degat":"6",
+        "Effet_ID":"0"
+    },
+    {
+        "Competence_ID":"18",
+        "Libelle":"Fiole d'acide",
+        "Classe_ID":"5",
+        "Degat":"2",
+        "Effet_ID":"1"
+    },
+    {
+        "Competence_ID":"19",
+        "Libelle":"Coup de couteau d'alchimiste",
+        "Classe_ID":"5",
+        "Degat":"3",
+        "Effet_ID":"4"
+    },
+    {
+        "Competence_ID":"20",
+        "Libelle":"Potion de soin maison",
+        "Classe_ID":"5",
+        "Degat":"0",
+        "Effet_ID":"3"
+    }
+]

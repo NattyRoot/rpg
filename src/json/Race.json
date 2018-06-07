@@ -1,0 +1,37 @@
+[
+    {
+        "Race_ID": "1",
+        "Libelle":"Humain",
+        "Pv":"20",
+        "Esquive":"60",
+        "Precision":"60"
+    },
+    {
+        "Race_ID": "2",
+        "Libelle":"Nain",
+        "Pv":"20",
+        "Esquive":"70",
+        "Precision":"50"
+    },
+    {
+        "Race_ID": "3",
+        "Libelle":"Elfe",
+        "Pv":"20",
+        "Esquive":"50",
+        "Precision":"70"
+    },
+    {
+        "Race_ID": "4",
+        "Libelle":"Orque",
+        "Pv":"25",
+        "Esquive":"40",
+        "Precision":"60"
+    },
+    {
+        "Race_ID": "5",
+        "Libelle":"Gnome",
+        "Pv":"15",
+        "Esquive":"70",
+        "Precision":"60"
+    }
+]

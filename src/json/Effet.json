@@ -1,0 +1,50 @@
+[
+    {
+        "Effet_ID":"0",
+        "Libelle":"Aucun",
+        "HtmlDesc":"<i style='color:grey;'>Pas d'effet</i>",
+        "Degat":"0",
+        "Soin":"0",
+        "Duree":"1"
+    },
+    {
+        "Effet_ID":"1",
+        "Libelle":"Empoisonnement",
+        "HtmlDesc":"<i style='color:purple'>Inflige 2 pts de dégats pendant 3 tours</i>",
+        "Degat":"2",
+        "Soin":"0",
+        "Duree":"3"
+    },
+    {
+        "Effet_ID":"2",
+        "Libelle":"Etourdissement",
+        "HtmlDesc":"<i style='color:orange'>Empeche la cible d'attaquer pendant 1 tour</i>",
+        "Degat":"0",
+        "Soin":"0",
+        "Duree":"1"
+    },
+    {
+        "Effet_ID":"3",
+        "Libelle":"Regeneration",
+        "HtmlDesc":"<i style='color:green'>Soigne la cible de 3 PV pendant 2 tours</i>",
+        "Degat":"0",
+        "Soin":"3",
+        "Duree":"2"
+    },
+    {
+        "Effet_ID":"4",
+        "Libelle":"Saignement",
+        "HtmlDesc":"<i style='color:blue'>Inflige 1 pt de dégat pendant 5 tours</i>",
+        "Degat":"1",
+        "Soin":"0",
+        "Duree":"5"
+    },
+    {
+        "Effet_ID":"5",
+        "Libelle":"Brulure",
+        "HtmlDesc":"<i style='color:red'>Inflige 4 pt de dégat pendant 2 tours</i>",
+        "Degat":"4",
+        "Soin":"0",
+        "Duree":"2"
+    }
+]
