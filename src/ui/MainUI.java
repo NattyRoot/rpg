@@ -13,16 +13,16 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.HashMap;
 import java.util.List;
-import javax.swing.JButton;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
+import javax.swing.*;
+
 import system.SystemCombat;
+import system.SystemDirectory;
 
 /**
  *
  * @author b78877
  */
-public class MainUI extends javax.swing.JFrame {
+public class MainUI extends JFrame {
 
     private Personnage perso;
     private Personnage enemy;
@@ -30,6 +30,7 @@ public class MainUI extends javax.swing.JFrame {
     private HashMap componentMap;
     
     private SystemCombat leCombat;
+
     
     /**
      * Creates new form MainUI
@@ -569,6 +570,8 @@ public class MainUI extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
+                new SystemDirectory().createDir();
+
                 new MainUI().setVisible(true);
             }
         });
